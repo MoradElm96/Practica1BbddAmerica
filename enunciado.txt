@@ -1,0 +1,11 @@
+Se tiene la base de datos América, compuesta por las tablas Personas y Países.
+
+Partiendo de la bbdd América.sql, hacer un programa en Java que cree la tabla PersonasPaises que tendrá los siguientes atributos:
+
+      Id, Nombre, Apellido, Edad, NombrePais y Tamaño.
+
+La información que va almacenar es la sacada de las otras dos tablas.
+
+Tras crear dicha tabla, actualizarla sumando 1 a la edad de las personas de Costa Rica.
+
+Finalmente sacar un listado con toda la información de la nueva tabla.
